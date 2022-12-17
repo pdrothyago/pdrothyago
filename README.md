@@ -1,5 +1,8 @@
-# 💫 About Me:
-Graduando em Engenharia de Petróleo, 10º período<br>Pesquisador voluntário no Laboratório de Inovação Interdisciplinar desenvolvendo uma ferramenta computacional para aplicação em análises de dados e processamentos de imagens obtidas por meio da técnica de microtomografia<br>Estudando Data Science
+# 💫 Sobre mim:
+## Olá!! Sou Pedro Thyago o/
+- Graduando em Engenharia de Petróleo, 10º período<br>
+- Pesquisador voluntário no Laboratório de Inovação Interdisciplinar desenvolvendo uma ferramenta computacional para aplicação em análises de dados e processamentos de imagens obtidas por meio da técnica de microtomografia<br> 
+- Estudante de Data Science
 
 
 ## 🌐 Socials:
