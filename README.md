@@ -1,8 +1,7 @@
 # 💫 Sobre mim:
 ## Olá!! Sou Pedro Thyago Gomes o/
-👷Graduando em Engenharia de Petróleo, 10º período<br>
-🧑‍💻 Pesquisador voluntário no Laboratório de Inovação Interdisciplinar desenvolvendo uma ferramenta computacional para aplicação em análises de dados e processamentos de imagens obtidas por meio da técnica de microtomografia<br> 
-📊 Estudante de Data Science
+👷Engenharia de Petróleo
+🧑‍💻 Tecnologia e Inovação
 
 
 ## 🌐 Socials:
