@@ -1,7 +1,8 @@
 # 💫 Sobre mim:
 ## Olá!! Sou Pedro Thyago Gomes o/
-👷Engenharia de Petróleo
-🧑‍💻 Tecnologia e Inovação
+👷Engenheiro de Petróleo
+🗾Pós-graduando em Georreferenciamento, Geoprocessamento e Sensoriamento Remoto
+🧑‍💻Tecnologia e Inovação
 
 
 ## 🌐 Socials:
